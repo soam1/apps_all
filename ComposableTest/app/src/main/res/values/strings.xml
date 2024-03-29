@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposableTest</string>
+    <string name="title_activity_expandable_card">ExpandableCard</string>
+</resources>

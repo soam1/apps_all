@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096201367680",
+    "project_id": "firestorelearn-d80be",
+    "storage_bucket": "firestorelearn-d80be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096201367680:android:8ef08a94bed475ca3db665",
+        "android_client_info": {
+          "package_name": "com.akashsoam.firestorelearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ZkdohZSo-eV8Zqmv33KS0wS8Ye791Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

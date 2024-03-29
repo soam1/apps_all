@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewApp</string>
+    <string name="textview">textview</string>
+    <string name="my_own_text">My Own text</string>
+</resources>
